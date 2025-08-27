@@ -1,0 +1,24 @@
+{
+  "name": "entrelinhas",
+  "version": "1.0.0",
+  "description": "Software de lista de livros para projeto da faculdade",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.5.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
